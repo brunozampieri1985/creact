@@ -10,4 +10,4 @@ i.e.: creact -js MyComponent -nocss
  ### TODO
   1. Refactor
   2. Unit tests
-  3. Add code snippets to created files
+  3. Extensions auto detection
