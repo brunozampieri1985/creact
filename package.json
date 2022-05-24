@@ -4,6 +4,10 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+  "author": {
+    "name": "Bruno Zampieri",
+    "email": "brunozampieri1985@gmail.com"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +15,6 @@
     "creact": "./bin/index.js"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "fs-extra": "^10.1.0",
@@ -22,6 +25,10 @@
     "prettier": "^2.6.2"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/brunozampieri1985"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brunozampieri1985/creact.git"
   }
 }
